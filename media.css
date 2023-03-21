@@ -1,0 +1,12 @@
+.recentCustomers table tr:hover{
+    background-color: var(--blue);
+    color: white;
+}
+
+.recentCustomers table tr:hover .imageBox{
+    border: 2px solid var(--white);
+}
+
+.recentCustomers table tr:hover span{
+    color: white;
+}
