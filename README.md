@@ -9,5 +9,7 @@ Creation of an adaptive admin panel with the help of html, js, css. Using media 
 
 ![image](https://user-images.githubusercontent.com/94392546/226575285-da84566b-1e70-45de-a6fb-79a0150b310e.png)
 
+Adaptive burger menu for phones.
+
 ![image](https://user-images.githubusercontent.com/94392546/226575352-f3be2c05-5972-4e96-9f11-7fa0b0b132b5.png)
 
